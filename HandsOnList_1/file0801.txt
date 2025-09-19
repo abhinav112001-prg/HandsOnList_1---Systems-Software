@@ -1,0 +1,4 @@
+Operating systems are an essential part of any computer system.
+An operating system acts as an intermediary between the user and hardware.
+Some operating systems are designed to be convenient, others to be efficient, and others
+some combination of the two.
