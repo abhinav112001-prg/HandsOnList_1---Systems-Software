@@ -3,7 +3,7 @@
 Name: 08d.c
 Author: Abhinav Sharma
 Description: Write a separate program using signal system call to catch the following signals.
-d. SIGALRM
+d. SIGALRM (alarm syscall)
 Date: 21th September 2025
 ============================================================================================
 */

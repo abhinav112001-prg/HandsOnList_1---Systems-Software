@@ -35,8 +35,11 @@ int main () {
 	exit(0);
 }
 /*
-=======================================================================================================
+================================================================================================================
+abhinav-sharma@abhinav-sharma-ASUS-TUF-Gaming-A15-FA506NCR-FA566NCR:~/Documents/HandsOnList_2$ cc 06.c -lpthread
 abhinav-sharma@abhinav-sharma-ASUS-TUF-Gaming-A15-FA506NCR-FA566NCR:~/Documents/HandsOnList_2$ ./a.out
-
-=======================================================================================================
+Hi I am Thread #1.
+HELLO, this is Thread #2Bye.Bye.Bye.Bye.Bye.Bye.Bye.Bye.Bye.Bye.
+(thread#3 here!)
+================================================================================================================
 */
